@@ -1,4 +1,4 @@
-# real_image_flut
+# Realtime Image Segmentation
 
 Realtime Image segmentation using Flutter and Tensorflow Lite
 
